@@ -254,5 +254,15 @@ main.mdl-layout__content
 }
 
 h2{
- margin-top: 100px;
+ margin-top: 20px;
+}
+
+#bouton{
+  margin-right: 4px;
+  background-color: #00cc66;
+}
+#sign-in2{
+  margin-left: 1030px;
+  background-color: #00cc66;
+  color: white;
 }
